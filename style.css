@@ -1,0 +1,19 @@
+img{
+  width:120px;
+    height:120;
+}
+body{
+  text-align:center;
+  background-image:linear-gradient(
+#cf112d,#f26d81);
+}
+.menu{
+list-style: none;
+}
+.link{
+float: left;
+    padding-bottom: 5px;
+        padding-top: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+}
